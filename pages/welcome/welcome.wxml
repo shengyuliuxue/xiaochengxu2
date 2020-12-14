@@ -1,0 +1,10 @@
+<!--pages/welcome.wxml-->
+<view>
+  <view>
+    <view>
+      <l-water-flow generic:l-water-flow-item="prodlist"/>
+    </view>
+  </view>
+</view>
+
+

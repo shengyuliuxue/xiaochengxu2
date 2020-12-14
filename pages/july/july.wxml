@@ -1,0 +1,5 @@
+<!--pages/july.wxml-->
+<text>pages/july.wxml</text>
+<view>
+  <image class="top-theme" src=""></image>
+</view>
